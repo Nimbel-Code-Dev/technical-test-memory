@@ -11,6 +11,17 @@ Desarrollar un juego de memory utilizando React en el que el usuario deba hacer 
 - Puedes hacer preguntas durante el proceso.
 - **Opcional:** Puedes usar TypeScript si lo prefieres.
 - El código debe estar estructurado y ser fácil de leer.
+- Assets:  
+```javascript
+    const images = ["https://images.unsplash.com/photo-1626808642875-0aa545482dfb",
+    "https://images.unsplash.com/photo-1546842931-886c185b4c8c",
+    "https://images.unsplash.com/photo-1520763185298-1b434c919102",
+    "https://images.unsplash.com/photo-1442458017215-285b83f65851",
+    "https://images.unsplash.com/photo-1496483648148-47c686dc86a8",
+    "https://images.unsplash.com/photo-1591181520189-abcb0735c65d",
+    "https://images.unsplash.com/photo-1468327768560-75b778cbb551"
+    "https://images.unsplash.com/photo-1519378058457-4c29a0a2efac"];
+  ```
 
 ---
 
