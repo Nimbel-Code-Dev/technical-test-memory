@@ -19,7 +19,7 @@ Desarrollar un juego de memory utilizando React en el que el usuario deba hacer 
     "https://images.unsplash.com/photo-1442458017215-285b83f65851",
     "https://images.unsplash.com/photo-1496483648148-47c686dc86a8",
     "https://images.unsplash.com/photo-1591181520189-abcb0735c65d",
-    "https://images.unsplash.com/photo-1468327768560-75b778cbb551"
+    "https://images.unsplash.com/photo-1468327768560-75b778cbb551",
     "https://images.unsplash.com/photo-1519378058457-4c29a0a2efac"];
   ```
 
